@@ -1,0 +1,11 @@
+Git Cheatsheet
+--------------
+
+start Git Bash
+cd projects
+rm -rf machine-learning-in-healthcare
+git clone https://github.com/mikedsp/machine-learning-in-healthcare.git
+EDIT FILES
+git add .
+git commit -m "test change"
+git push origin master
